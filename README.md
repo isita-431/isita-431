@@ -1,4 +1,6 @@
 ### Hi there 👋
+i'm a pythonista, datascience enthusiast and a budding web developer.
+- 🔭 I’m currently working on javascript 
 
 <!--
 **isita-431/isita-431** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,5 @@
 ### Hi there 👋
-i'm a pythonista, datascience enthusiast and a budding web developer.
+i'm a datascience enthusiast, pythonista and a budding web developer.
 - - 🌱 I’m currently learning javascript
 
 <!--

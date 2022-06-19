@@ -1,6 +1,6 @@
 ### Hi there 👋
 i'm a datascience enthusiast, pythonista and a budding web developer.
-- - 🌱 I’m currently learning  NLP , data scraping and practicing machine learning
+- - 🌱 I’m currently learning  data scraping and practicing machine learning
 
 <!--
 **isita-431/isita-431** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

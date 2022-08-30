@@ -1,5 +1,5 @@
 ### Hi there 👋
-i'm a datascience enthusiast, pythonista and a budding web developer.
+i'm a datascience enthusiast, pythonista and a cheerful learner.
 - - 🌱 I’m currently  practicing machine learning and deep learning.
 
 <!--

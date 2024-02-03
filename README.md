@@ -1,6 +1,6 @@
 ### Hi there 👋
-i'm a datascience enthusiast, pythonista and a cheerful learner.
-- - 🌱 I’m currently  practicing machine learning and deep learning.
+#i'm a datascience enthusiast, pythonista and a cheerful learner.
+#- - 🌱 I’m currently  practicing machine learning and deep learning.
 <h3 align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=2%2B%20years%20of%20Python%20experience;Full-stack%20web%20developer;Data%20Science%20Enthusiast;Coding%20Enthusiast&font=Roboto%20Code&center=true&width=440&height=45&color=&#00FFFFvCenter=true&size=22"></a>
 </h3>

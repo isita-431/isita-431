@@ -4,7 +4,7 @@ I'm Isita Polamarasetti ,
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=3%2B%20years%20of%20Python%20experience;Full-stack%20web%20developer;Data%20Science%20Enthusiast;Coding%20Enthusiast&font=Roboto%20Code&center=true&width=440&height=45&color=&#00FFFFvCenter=true&size=22"></a>
 </h3>
 
-- My hobby : Learning Something neww.
+- My hobby : Learning Something neww and building ML based applications.
 
 -  🔭 I love exploring data and bringing out insights! (Have data? Throw it here!).
 -  - 📫 Reach me at : ip22@rice.edu or <a href = 'https://www.linkedin.com/in/isita-p/'> Linkedin</a> 

@@ -6,7 +6,7 @@ I'm Isita Polamarasetti ,
 
 - My hobby : Learning Something neww and building ML based applications.
 
--  🔭 I love exploring data and bringing out insights! (Have data? Throw it here!).
+-  🔭 I love exploring data and bringing out insights!.
 -  - 📫 Reach me at : ip22@rice.edu or <a href = 'https://www.linkedin.com/in/isita-p/'> Linkedin</a> 
 ## Tools and Technologies : 
 

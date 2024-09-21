@@ -6,8 +6,9 @@ I'm Isita Polamarasetti ,
 
 - My hobby : Learning Something neww and building ML based applications.
 
--  🔭 I love exploring data and bringing out insights!.
--  - 📫 Reach me at : ip22@rice.edu or <a href = 'https://www.linkedin.com/in/isita-p/'> Linkedin</a> 
+-  🔭 I love exploring data and bringing out insights!. I'm currently working at Baylor College of Medicine as a Machine Learning Intern. 
+-  - 📫 Reach me at : ip22@rice.edu or <a href = 'https://www.linkedin.com/in/isita-p/'> Linkedin</a>
+   - My Leetcode ID : ishita431
 ## Tools and Technologies : 
 
 <p align="left"> <a href="https://www.python.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="bootstrap" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="bootstrap" width="40" height="40"/> </a><a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 

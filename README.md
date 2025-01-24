@@ -1,7 +1,7 @@
 Hi there 👋
 I'm Isita Polamarasetti
 
-<h3 align="center"> <a href="https://github.com/DenverCoder1/readme-typing-svg"> <img src="https://readme-typing-svg.herokuapp.com/?lines=3%2B%20years%20of%20Python%20experience;Data%20Science%20Enthusiast;Software%20Developer;Passionate%20Collaborator&font=Roboto%20Code&center=true&width=440&height=45&color=00FFFF&vCenter=true&size=22"> </a> </h3>
+<h3 align="center"> <a href="https://github.com/DenverCoder1/readme-typing-svg"> <img src="https://readme-typing-svg.herokuapp.com/?lines=3%2B%20years%20of%20Python%20experience;Data%20Science%20Enthusiast;Software%20Developer;Machine%20Learning%20Engineer;Passionate%20Collaborator&font=Roboto%20Code&center=true&width=440&height=45&color=00FFFF&vCenter=true&size=22"> </a> </h3>
 -- 🌟 My Hobby: Learning something new and building ML-based applications.
 
 -- 🔭 What I'm Doing Now:
@@ -43,7 +43,7 @@ Big Data & Cloud
 <p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" alt="Hadoop" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> </p>
 
 Visualization & Analytics
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" alt="Tableau" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" alt="D3.js" width="40" height="40"/> </p>
+<p align="left"> <img src="https://www.google.com/imgres?q=tableau%20logo&imgurl=https%3A%2F%2Flogos-world.net%2Fwp-content%2Fuploads%2F2021%2F10%2FTableau-Logo.png&imgrefurl=https%3A%2F%2Flogos-world.net%2Ftableau-logo%2F&docid=7f2db5iTsx1aHM&tbnid=nteZQ538iDMTWM&vet=12ahUKEwjg_tyr942LAxVF4skDHcC6KbAQM3oECBsQAA..i&w=3840&h=2160&hcb=2&ved=2ahUKEwjg_tyr942LAxVF4skDHcC6KbAQM3oECBsQAA" alt="Tableau" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" alt="D3.js" width="40" height="40"/> </p>
 
 Version Control & CI/CD
 <p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="Heroku" width="40" height="40"/> </p>

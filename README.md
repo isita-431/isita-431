@@ -12,9 +12,10 @@ I'm Isita Polamarasetti
 
 --I'm looking forward to working with people passionate about Machine Learning, Cloud, and enthusiastic about creating something new!.
 -- 🍳 Fun Fact: I cook incredibly well (let's collaborate on recipes too)!
--- 📫 Reach Me At:
-Email: ip22@rice.edu
+-- 📫 Reach Me At: Email: ip22@rice.edu
+
 LinkedIn : https://www.linkedin.com/in/isita-p/
+
 LeetCode ID: ishita431
 
 🛠 Tools and Technologies

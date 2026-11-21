@@ -15,7 +15,7 @@ I'm Isita Polamarasetti
 
 -- 🍳 Fun Fact: I cook incredibly well (let's collaborate on recipes too)!.
 
--- 📫 Reach Me At: Email: ip22@rice.edu
+-- 📫 Reach Me At: Email: isitapol2002@gmail.com
 
 LinkedIn : https://www.linkedin.com/in/isita-p/
 

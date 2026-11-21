@@ -1,7 +1,7 @@
 Hi there 👋
 I'm Isita Polamarasetti
 
-<h3 align="center"> <a href="https://github.com/DenverCoder1/readme-typing-svg"> <img src="https://readme-typing-svg.herokuapp.com/?lines=3%2B%20years%20of%20Python%20experience;Data%20Science%20Enthusiast;Software%20Developer;Machine%20Learning%20Engineer;Passionate%20Collaborator&font=Roboto%20Code&center=true&width=440&height=45&color=00FFFF&vCenter=true&size=22"> </a> </h3>
+<h3 align="center"> <a href="https://github.com/DenverCoder1/readme-typing-svg"> <img src="https://readme-typing-svg.herokuapp.com/?lines=5%2B%20years%20of%20Python%20experience;Data%20Science%20Enthusiast;Software%20Developer;Machine%20Learning%20Engineer;Passionate%20Collaborator&font=Roboto%20Code&center=true&width=440&height=45&color=00FFFF&vCenter=true&size=22"> </a> </h3>
 -- 🌟 My Hobby: Learning something new and building ML-based applications.
 
 -- 🔭 What I'm Doing Now:
